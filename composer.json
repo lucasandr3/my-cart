@@ -1,0 +1,20 @@
+{
+    "name": "lucasandr3/my-cart",
+    "description": "classe para carrinho de ecommerce",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Lucas Vieira",
+            "email": "lucasvieiraandrade58@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MLV\\MyCart\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
